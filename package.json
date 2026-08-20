@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "mongoose": "latest"
+  }
+}
